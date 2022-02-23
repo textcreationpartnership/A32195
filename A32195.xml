@@ -1,0 +1,1377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The capitulations and articles of peace betweene the Majestie of the King of England, Scotland, France, &amp; Ireland, &amp;c., and the Sultan of the Ottoman Empire as they have beene augmented, &amp; altered in the times of every embassadour : and as now lately in the city of Adrianople in the month of January 1661 they have beene augmented, renewed, &amp; amplifyed with diverse additionall articles, &amp; priviledges, which serve towards the maintenance of a well grounded peace, &amp;  securities of the trade, &amp; trafficke of His Majesties subjects in the Levant by His Excellency Heneage Earle of VVinchilsea Embassadour Extraordinary from His Majestie Charles the Second, King of Great Brittaine, France, &amp; Ireland to Sulton Mahomet Han the Most Puissant Prince, &amp; Emperour of the Turkes : set forth, and published by Paul Ricaut, Esquire, Secretary to his Excellencie the Lord Embassadour.</title>
+            <title>Treaties, etc. Turkey, 1662 Jan.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32195</idno>
+            <idno type="STC">Wing C2930</idno>
+            <idno type="STC">ESTC R8505</idno>
+            <idno type="EEBO-CITATION">12924360</idno>
+            <idno type="OCLC">ocm 12924360</idno>
+            <idno type="VID">95442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 732:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The capitulations and articles of peace betweene the Majestie of the King of England, Scotland, France, &amp; Ireland, &amp;c., and the Sultan of the Ottoman Empire as they have beene augmented, &amp; altered in the times of every embassadour : and as now lately in the city of Adrianople in the month of January 1661 they have beene augmented, renewed, &amp; amplifyed with diverse additionall articles, &amp; priviledges, which serve towards the maintenance of a well grounded peace, &amp;  securities of the trade, &amp; trafficke of His Majesties subjects in the Levant by His Excellency Heneage Earle of VVinchilsea Embassadour Extraordinary from His Majestie Charles the Second, King of Great Brittaine, France, &amp; Ireland to Sulton Mahomet Han the Most Puissant Prince, &amp; Emperour of the Turkes : set forth, and published by Paul Ricaut, Esquire, Secretary to his Excellencie the Lord Embassadour.</title>
+                  <title>Treaties, etc. Turkey, 1662 Jan.</title>
+                  <author>England and Wales.</author>
+                  <author>Turkey. Treaties, etc. England and Wales, 1662 Jan.</author>
+               </titleStmt>
+               <extent>[2], 5-21 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Abraham Gabai ...,</publisher>
+                  <pubPlace>Printed at Constantinople :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Commerce --  Turkey.</term>
+               <term>Turkey --  Commerce --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95442:1"/>
+            <pb facs="tcp:95442:1"/>
+            <p>THE CAPITVLATIONS AND ARTICLES Of peace betvveene the MAIESTIE of the KING OF EN<g ref="char:EOLhyphen"/>GLAND, SCOTLAND, FRANCE, &amp; IRELAND &amp;c. And the SVLTAN of the OTTOMAN EMPIRE, as they haue beene augmented, &amp; altered in the times of euery Embaſſadour: And as novv lately in the City of Adrianople in the month of Ianuary 1661 they haue beene augmented, renevved, &amp; amplifyed vvith diuerſe additionall articles, &amp; priuiledges, vvhich ſerue tovvards the maintenance of a vvell grounded Peace, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſecuritie of the trade, &amp; trafficke of his Maieſties ſubiects in the Leuant, by his Excellency HENEAGE EARLE OF VVINCHILSEA Embaſſadour Extraordinary from his MAIESTIE CHARLES THE SECOND KING OF GREAT BRITTAINE, FRANCE, &amp; IRELAND to SVLTAN MAHOMET HAN the Moſt Puiſlant PRINCE, &amp; EMPEROVR of the TVRKES.</p>
+            <p>Set forth, &amp; Publiſhed by PAVL RICAVT Esquire Secretary to his Exc llencie the Lord Embaſſadour.</p>
+            <p>Licenſed by his EXCELLENCIES ſpeciall Order.</p>
+            <p>Printed at CONSTANTINOPLE by Abraham Gabai chaf nahat. in the yeare of our Lord 1663.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95442:2"/>
+            <pb n="5" facs="tcp:95442:2"/>
+            <head>THE EPISTLE DEDICATORY TO THE RIGHT VVORSP.<hi rend="sup">LL</hi> S<hi rend="sup">R</hi> ANDREVV RICCARD GOVERNOVR, THE DEPVTIE, &amp; ASSISTANTS OF THE COMPANIE OF MERCHANTS TRADING IN THE LEVANT SEAS.</head>
+            <opener>
+               <salute>RIGHT VVORSP.<hi rend="sup">LL</hi> S<hi rend="sup">R</hi> &amp; S<hi rend="sup">RS</hi>
+               </salute>
+            </opener>
+            <p>Hauing beene often ſollicited by the Conſuls of the ſeuerall Factories in Tur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, &amp; by other priuate merchants my eſteemed friends, for true coppies of the Capitulations, vvee haue vvith the Grand Sig. as they vvere last renevved, &amp; enlarged vvith aduantagious additions, &amp; priuiledges by his Excellencie the Earle of vvinchilſea Our preſent Lord Ambaſſadour; I apprehen<g ref="char:EOLhyphen"/>ded that printing ſome coppies thereof, vvould excuſe mee from a greater paines, then tranſcribing ſo many vvould bee, as might ſatiſfy my friends, &amp; vvould ſerue for a good light, &amp; information to euery member concerned in the Leuant trade, of the true extent of the articles vvee hold vvith the Turkish Empire, that ſo they may neither omit to take thoſe aduantages in their trade, vvhich Our Capitulations allovv, nor ignorantly con<g ref="char:EOLhyphen"/>fiding to vvhat vvas neuer granted, &amp; agreed, runne into thoſe errours, vvhich your com<g ref="char:cmbAbbrStroke">̄</g>on purſe hath ſo often been forced to rectify, &amp; repaire.</p>
+            <p>Theſe Capitulations, or articles of peace first opened our traffick vvith the Turkes in the Reign of Queene Elizabeth, about 80 yeares past, &amp; ſince haue beene explained, &amp; enlarged in the time of allmost euery Ambaſſadour vvith ſuch alterations, as the ſtate of affaires, &amp; the abuſes, &amp; iniquitie of the times ſuggeſted: And yet all the uigilance, &amp; caution of the many vviſe, &amp; reſolute Mi<g ref="char:EOLhyphen"/>niſters,
+<pb n="6" facs="tcp:95442:3"/> that haue acted in his Embaſſe, could neuer (nor neuer vvill) bee able to prouide thoſe prudent remedies, that may bee proofe, &amp; a guard impregnable against the pretences, &amp; uiolence o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Turkish auarice. The preſent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbaſſadour, my most eſtee<g ref="char:EOLhyphen"/>med Lord (vvhom I haue the honour to ſerue as Secretary of his ovv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, &amp; the af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aires of your Right VVorſhipfull ſocietie) hath contributed an affectuall addition to this vvorke, vvhich by a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uice, &amp; information from all the Factories in Turky of their reſpectiue agreiuances, is as amply co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>firmed, as the hand, &amp; authoritie of the Emperour, &amp; lavv of nations can eſtablish: to vvhich propoſalls tendered by the merc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ants, the vvarre then hot vvith Algier, occaſioned his Excellencie to inſert o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her cau<g ref="char:EOLhyphen"/>tions, against the pyracies of Barbarie, vvhen at Adrianople hee encountred the meſſengers, that broug<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> complaints of the aſſault his Maieſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies Fleet against the Capi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>latio<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, &amp; Articles of peace had made upon the Gra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Signors to vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Algier, to vvhich al<g ref="char:EOLhyphen"/>legations, his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcellencie made thoſe prudent rep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, that neither the priuiledge of their Sect, nor their late preſents, nor relation as ſubiects, could prevaile to afford them matter of fauour, or counten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce: And at hovv eaſy, &amp; cheap a rate your threa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates vvere then protected, the accounts ſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you home vvill iuſtify: &amp; the inconſiderable Auances that haue happened ſince his arriuall, are a teſtimonie of the great vviſdome, &amp; care of his Excellency; That if it pleaſe God, to con inue the ſame ſucceſſe to him, in the remainde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his time, bleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed vvith the preſent flo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſhing eſtate of your trade, his returne may bee celebrated vvi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the ſame, &amp; glory of the most happy, &amp; fortunate of Embaſſadours.</p>
+            <p>Theſe Capitulations being thus compleated, to vvhich nothing can at preſent, bee thought or, to make more, perfect, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or no oppreſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on imaginable, vvhich <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not a prohibition herein, untill the ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itious inuention of the Turkes (vvhich is ingenious in nothing but in matters of their intere<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>) eſpy ſome unarmed part, in vvhich to vv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rd Vs: It is the vvi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dome, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igilance, &amp; reſo u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the Embaſ adour to maintaine them in reuerence, &amp; obſeruation: in vvhich that courſe, &amp; method is to bee taken, as is not practiſed in the Courts of Chriſtendome, &amp; is of that different forme, in matte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; proceeding, as vvill render an experi<g ref="char:EOLhyphen"/>enced Miniſter in the treaties of other countries a Nouice in this, untill ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e &amp; conuerſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion hath inſtructed him in a nevv ſcience &amp; unacq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted Maximes of State, &amp; policie.</p>
+            <p>The Capitulations the Grand Sig.<hi rend="sup">r</hi> giues to us, &amp; other Chriſtians tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ff ck vvith <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, are (in my opinion) of an other nature &amp; forme, then articles of peace are uſuall to bee betvveene tvvo
+<pb n="7" facs="tcp:95442:3"/> nations; for hee requires no counterpart from his Maieſtie, vvhe<g ref="char:EOLhyphen"/>reby to oblige him to performe the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame conditions vvith him<g ref="char:EOLhyphen"/>ſelf, but as if hee needed, &amp; expected nothing from the English conferres on them ſeuerall Imperiall im<g ref="char:cmbAbbrStroke">̄</g>unities, &amp; priuiledges, as his Charter, &amp; Acts of grace, vvithout demand of any returnes vvhich hee accounts as a diminution to his all containing Maieſty to bee needfull, or vvanting of. And this p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide, is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o naturall to the Turkes, &amp; ſo neceſſary to bee flattered by thoſe, vvho vvould maintaine the intercourſe of peace, &amp; trafficke vvi h them, that it is no meane Art to knovv vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, how to nourish, &amp; d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly vvi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h their barbarous humour. But it is beyond, I must confeſſe, my capacitie, to bee more, then ſuperficially acquainted vvith theſe myſteries, it is for my Lord, to bee Maſter, &amp; profoundly uerſed in them; vvho knovves the times, both to threaten, &amp; to flatter, &amp; vvhen vvith reſolute vvords, or ſoft ſpeeches to diſpearſe, &amp; calme thoſe ſtormes, vvhich vvee vvho liue, under the arbitrary vvill of Tyrants, doe often foreſee, &amp; yet diſſolue, before the fury reach, &amp; arriue you. This is the care, &amp; ſtudy of his Excel<g ref="char:EOLhyphen"/>lencie, vvho hath many times occaſion to bee more tender of your ſafetie, then his ovvne, &amp; to interpoſe himſelf, &amp; his, betvveene you, &amp; the barbarous rage. And vvhen I, vvho am one of the meanest of thoſe concerned in your interest, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an bee of ſeruice, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe to the publick benefit of the Right vvors<g ref="char:EOLhyphen"/>hipfull ſocietie, I ſhall thinke my life too meane a ſacrifice to o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fer to you; for hauing receiued ſo many obligations from your vvorſhips &amp; teſtimonies of your bountie, I iudge my ſelf for euer bound to ſubſcribe my ſelf.</p>
+            <closer>
+               <salute>Right VVorſhipfull</salute>
+               <signed>Your VVorſhips most faithfull &amp; most deuoted Seruant PAVL RICAVT</signed>
+            </closer>
+         </div>
+         <div type="apology_in_lieu_of_errata">
+            <pb n="8" facs="tcp:95442:4"/>
+            <head>THE PRINTER TO THE READER. </head>
+            <opener>
+               <salute>COVRTEOVS READER</salute>
+            </opener>
+            <p>If in peruſing theſe follovving Capitulations you find ſome fevv letters miſplaced, or the letter VV not ſo neatly formed, as vvere to bee vviſhed, attribute the fault neither to the Printer, nor Correctour: for the preſſe at Conſtantinople being but ſildo<g ref="char:EOLhyphen"/>me employed, is not furniſhed vvith the uarietie of thoſe letters, vvhich are only propper to northern languages, amongst vvhich the VV is of ſpeciall uſe; to ſupply vvhich defect, I haue beene forced to imitate that letter as vvell as I could beyond my ovvne art, &amp; profeſſion. And if any other letters are let ſlip, it vvas in time of the Correctours urgent auocation to other employments vvhich permitted him not to bee ſo accurate, &amp; attentiue here<g ref="char:EOLhyphen"/>unto as hee deſired. And ſo hoping you vvill pardon, vvhat ſlight errours you may poſſibly meet vvith herein I remaine.</p>
+            <closer>
+               <signed>Yours at Com<g ref="char:cmbAbbrStroke">̄</g>and ABRAHAM GABAI Chaf Nabat</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb n="1" facs="tcp:95442:4"/>
+            <head>ACCORDING TO My IMPERIALL COMMAND LET IT BEE OBSERVED, &amp; LET NO ACT BEE PER<g ref="char:EOLhyphen"/>MITTED CONTRARIE HEREVNTO.</head>
+            <opener>
+               <signed>MAHOMET</signed>
+            </opener>
+            <p>The Command Of This Sublime, &amp; Lofty, &amp; Imperiall Signa<g ref="char:EOLhyphen"/>ture Preſerued, &amp; Exalted By Diuine Prouidence, vvhoſe Triumph And Glorie is renovvned through all the vvorld:</p>
+            <p>By the fauour of the Nouriſher of all things, &amp; mercy &amp; grace o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Mercifull, I that am the povverfull Lord of Lords of the vvorld vvhoſe name is formidable upon earth Giu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of all Crovvnes of the Vniuerſe, Sultan MAHOMET Han Son<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Sultan IBRAHIM Han, Sonne of Sultan AHMET Han, Sonne of Sultan MAHOMET Han, Sonne of Sultan MVRAT Han, Son<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Sultan SE<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>IM Han, Sonne of Sultan SVLIMAN Han, Sonne of Sultan SELIM Han.</p>
+            <p>To the glorious amongſt the Great Princes of Ieſus reuerenced by the high Potentates of the people of the Meſſiah Sole Direc<g ref="char:EOLhyphen"/>tour of the Inportant a faires of the nazarene Nation, Lord <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the limits of decencie, &amp; honour of greatneſſe, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame, Charles the Second King of England, &amp; Scotland, that is of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat Brittai<g ref="char:EOLhyphen"/>ne, France, &amp; Ireland, vvhoſe end, &amp; enterpriſes may the Omni<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent God conclud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vvith bliſſe, &amp; fauour vvith the ill<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<g ref="char:EOLhyphen"/>nation of his holy vvill.</p>
+            <pb n="2" facs="tcp:95442:5"/>
+            <p>In times paſt the Queene of the aforeſaid Kingdomes, ſent diuer<g ref="char:EOLhyphen"/>ſe of her eſteemed Gentlemen &amp; perſons of qualitie, vvith letters &amp; ſhipps, to this Imperiall High Port (the refuge of the Princes of the vvorld, &amp; the retreat of the Kings of the vvhole Vniuerſe) in the happy times of famous memorie of my Anceſtours, novv pla<g ref="char:EOLhyphen"/>ced in Paradiſe, vvhoſe ſoules bee repleniſhed vvith deuine mercy vvhich Gentlemen &amp; preſents vvere gratefully accepted, ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing declaration, &amp; offering in the name of the ſaid Queene an entire good peace &amp; pure friendſhip, &amp; demanding that their ſubiects might haue leaue to come from England into our Ports our ſaid Anceſtours of happy memory did then grant their Imperial licen<g ref="char:EOLhyphen"/>ce, &amp; gaue into the hands of the English nation diuerſe eſpeciall &amp; Imperiall Comands, to the end that they might ſafely, &amp; ſecu<g ref="char:EOLhyphen"/>rely come, &amp; goe into theſe dominions, &amp; in coming or returni<g ref="char:EOLhyphen"/>ng either by land, or Sea, in their vvay, &amp; paſſage, that they ſho<g ref="char:EOLhyphen"/>uld of no man bee moleſted, or hindered. After vvhich time in the dayes of our Grand father Sultan MAHOMETH an of famous memorie (unto vvhoſe ſoule bee granted diuine abſolution) it being anevv deſired that the ſubiects, merchants, &amp; theit Inter<g ref="char:EOLhyphen"/>preters might freely, &amp; ſecurely come, merchandize, &amp; negotia<g ref="char:EOLhyphen"/>te through all the parts of this Imperiall dominion, &amp; that ſuch capitulations, &amp; other priuiledges, &amp; Imperiall comands, as had beene granted unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he nation of the Kings, &amp; Princes in peace, &amp; amitie, vvith this High Port, as France, Venice, Poland &amp; others, might also bee granted to the ſubiects of the ſaid Queene, &amp; all others coming under the English banner In confirmation of vvhich requeſt, vvere giuen, &amp; confirmed by our Anceſtours of famous memory the Imperiall Capitulations, &amp; priuiledges ſucceeding to ſay It is comanded &amp;c.</p>
+            <div n="1" type="article">
+               <head>I</head>
+               <p>First that the ſaid Nation, &amp; the English merchants, &amp; any other nation, or merchants vvhich are or ſhall come under the English banner, &amp; protection, vvith their ſhips ſmall, &amp; great merchan<g ref="char:EOLhyphen"/>dize, faculties, &amp; all other their goods, may allvvayes paſſe ſafe in our ſeas, &amp; f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eely &amp; in all ſecuritie may come, &amp; goe into any part of the Imperiall limits of our dominions in ſuch ſort that neither any of the nation, their goods, &amp; faculties ſhall receiue any hinderance, or moleſtation from any perſon vvhatſoeuer.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II</head>
+               <p>The ſaid nation ſhall, &amp; may in like manner freely, &amp; ſecurely come, &amp; goe by land through all the imperiall limits of our do<g ref="char:EOLhyphen"/>minions, ſo that neither to their perſons, beasts goodes, or faculties, ſhall any trouble, or impediment bee giuen, nor any iniurie bee done unto them but they ſhall allvvayes at their ovvne pleaſures ſafely, &amp; ſecurely traffick in all parts of our dominions.</p>
+            </div>
+            <div n="3" type="article">
+               <pb n="3" facs="tcp:95442:5"/>
+               <head>III</head>
+               <p>And if it happen that any of the ſaid nation coming into our dominions by land, or paſſing into any other country ſhall bee ſtayed, or arreſted by any of our miniſters ſuch perſons ſhall bee ſet free, &amp; at libertie, &amp; aftervvards ſhall receiue no hinde<g ref="char:EOLhyphen"/>rance in his iourny.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IIII</head>
+               <p>All English ſhips, or ueſſells, ſmall, or great ſhall, &amp; may at any time ſafely, &amp; ſecurely come, &amp; harbour in any of the ſcales, &amp; ports of our dominions, &amp; likevviſe may from thence depart at their pleaſure vvithout the detention or hinderance of any man.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V</head>
+               <p>And if it ſhall happen that any English Veſſell great, or ſmall, fall into any miſfortune, danger of ſea, or any other neceſſitie, all the Veſſells as vvell Imperiall, as belonging to priuate men that ſhall bee neere, or preſent, as alſo all others that in habit the ſeas, thall giue them help, &amp; ſuccour, &amp; being come into our Ports or ſcales they ſhall freely ſtay in them as long as they pleaſe, &amp; for their mony prouide for them of all neceſſaries, &amp; prouiſion, &amp; may take vvater vvithout the let, or hinderance of any man</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI</head>
+               <p>And if it ſhall happen that any of their ſhipps ſhall haue ſuffered ſhipvvracke, or beene broken, or in diſtreſſe, ſhall bee caſt Vpon any coaſt of our dominions In vvhich caſe all Beglarbeggs, Caddees Gouernours, miniſters, &amp; other our ſlaues, ſhal giue them all aſſiſtance, ſuccour, &amp; help; &amp; vvhatſoeuer goods, &amp; fa<g ref="char:EOLhyphen"/>culties ſhall bee ſaued, or recouered in the ſaid ſhips ſhall b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e re<g ref="char:EOLhyphen"/>ſtored to the English &amp; if they ſhall bee informed that any part of their goods, &amp; faculties ſhall bee ſtoalen, or taken avvay, our ſaid miniſters vvith all diligence ſhal make ſufficient ſearch, &amp; examination to find out, &amp; recouer the goods, &amp; reſtore them to the English.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII</head>
+               <p>T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> English merchants, Interpreters brokers &amp; all other ſubiects of that nation, vvhether by ſea or land may freely, &amp; ſafely come, &amp; goe in all the Ports of our dominions, or returning into their ovvne contreyj all our Beglerbeges, miniſters, Gouer<g ref="char:EOLhyphen"/>nours, &amp; others officers, Captaines by ſea of ſhips, &amp; others vvhom ſoeuer our ſlaues, &amp; ſubiects, vvee comand, that none of them doe, or ſhall lay hands upon their perſons, or faculties, or upon any pretence ſhall doe them any hinderance or iniurie.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII</head>
+               <p>If any English man either for his ovvne debt, or for ſuretie: ſhip ſhall abſent himſelf, or make eſcape avvay, or ſhall bee ban<g ref="char:EOLhyphen"/>kerupt the creditour ſhall only pretend his debt upon his ovvne debtor, &amp; not of any other English; And if the Creditour haue not authentique Hoget or bill of ſuretieſhip made by an English
+<pb n="4" facs="tcp:95442:6"/> man, hee ſhall not pretend his debt of any other English man.</p>
+            </div>
+            <div n="9" type="article">
+               <head>VIIII</head>
+               <p>In all cauſes, buſineſſes, &amp; occaſions, vvhich ſhall occurre betvve<g ref="char:EOLhyphen"/>ene the ſaid nation, their merchants, Interpreters, &amp; brokers, or ſeruants, &amp; any other vvhat ſoeuer, that is to ſay, In ſelling, or buying in paying, or receiuing, in giuing, or taking ſecuritie, or pledge, debt, or credit, &amp; all other ſuch things vvhich appertaine to the miniſters of the lavv, &amp; iuſtice, they may allvvayes (if they pleaſe) in ſuch occaſions goe to the Caddee, vvho is the Iudge of the lavv, &amp; there make a Hoget or publicke authentique Act vvith vvitneſſe, &amp; regiſter the ſame, &amp; take a coppie of the ſame to keep by them, to the end that if in the future any difference, or pretence thall ariſe be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vveene the ſaid parties, they may both haue a recourſe to the ſaid Hoget, &amp; Act. And vvhen the pretence ſhall bee conformable to the tenour of the Hoge regiſtred, then it ſhall bee accordingly thereunto obſerued: And if the Plain<g ref="char:EOLhyphen"/>tiffe hath not in his hands any ſuch au<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>henticke Hoget, but only bri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>geth partiall vvittneſſe, vvhich makes cauills, or p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etences our miniſters ſhall not giue eare to them, but obſerue the vvritten authentique Hoget.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X</head>
+               <p>And if any one vvithin our dominions ſhall accuſe any English man to haue done him vvrong &amp; ſhall therefore raiſe any preten<g ref="char:EOLhyphen"/>ce Vpon him, by Violent or partial vvittneſſe, our miniſters ſhall not giue eare Vnto them, nor accept them, but the cauſe ſhall bee aduiſed to the Embaſſad. or Conſul Reſident of the English nation, to the end that the buſineſſe may bee decided vvith his knovvledge, &amp; in his preſence, that the English may allvvayes haue recourſe to their defence, &amp; protection.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI</head>
+               <p>If any English man hauing comitted an offence ſhall make his eſcape, or abſent himſelf, no other Englishman not being pled<g ref="char:EOLhyphen"/>ge, ſhall bee taken, or moleſted for him.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII</head>
+               <p>All Englishmen, or ſubiects of England, vvhich ſhall bee found ſlaues in our ſtate, or ſhall bee demanded by the Embaſſadour, or Conſul, the cauſe ſhall bee duly examined, &amp; ſuch perſons as are fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, truly to bee ſubiects of England, ſhall bee ſet free, &amp; deliuered to the Embaſſadour, or conſul.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII</head>
+               <p>All English men, &amp; all other ſubiects of the crovvne of England, vvhich ſhall <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ell, or reſide in ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dominions, vvhether they bee married, o ſingle <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y buy, ſell, &amp; trafficke, &amp; of them ſhall no harach or head m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, bee demanded.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIIII</head>
+               <p>The English Emba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſadour, Reſident, In Aleppo, Alexandria,
+<pb n="5" facs="tcp:95442:6"/> Tripoli of Suria, or Tunis, Algier, Tripoli of Barbarie, in Smyrna, the ports of Caire, or any other parts of our dominions, may at their pleaſure eſtablish their Conſuls, &amp; in like manner remo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e them, or change, &amp; appoint others in their places, &amp; none of our miniſters, ſhall oppoſe, or refuſe to accept them.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV</head>
+               <p>In all cauſes concerning, lavv &amp; iuſtice betvveene the English na<g ref="char:EOLhyphen"/>tion, &amp; any other, in the abſence of their Interpreters, the Iudges, nor any other of our miniſters, ſhall not proceed to giue ſentence.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI</head>
+               <p>If <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir happen any controuerſie amongst themſelues, the deci<g ref="char:EOLhyphen"/>ſion thereof, ſhall bee vvholy left to their ov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne Embaſſadour or Conſul, according to their ovvne right, &amp; lavves &amp; vvith no ſuch cauſes our miniſters ſhall in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ermedle.</p>
+            </div>
+            <div n="17" type="article">
+               <head>XVII</head>
+               <p>Our Armada of gallies, ſhips, or a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y other ueſſells of our Empire. VVhich a ſea meet, or find any English ſhip they ſhall not doe them, nor ſuffer to bee done to them the leaſt iniurie, or trouble nor ſhall they ſtay them, demand, pretend, or take any thing from them, but ſhall ſalu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, &amp; ſhevv good, &amp; mutuall friend ſhip the one to the other vvithout of<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence.</p>
+            </div>
+            <div n="18" type="article">
+               <head>XVIII</head>
+               <p>All theſe particular Priuiledges, &amp; Capitulations, vvhich in for<g ref="char:EOLhyphen"/>mer times haue beene granted to the french, Venetians, or any other Chriſtian nation. VVhoſe King is in peace, &amp; friendſhip vvith this Port in like manner the ſame vvere granted, &amp; giuen to the ſaid English nation, to the end that in time to come, the tenour of this our imperiall Capitulations may bee allvvayes obſerued by all men &amp; that none may in any manner upon any pretence preſume to contradict, or uiolate it.</p>
+            </div>
+            <div n="19" type="article">
+               <head>XIX</head>
+               <p>If the pyrates or I euerts vvho i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fest the ſeas vvith their frega<g ref="char:EOLhyphen"/>tes, ſhall bee found to haue ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nglish ueſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell, or to haue robbed, or ſpoyled their goods, &amp; facul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies, alſo if it ſhall bee found, that in any of our dominions, any ſhall haue uiolently taken goods of any English man our miniſters ſhall vvith all diligence ſeeke out ſuch Offendours, &amp; ſeuerely punish them, &amp; cauſe that all ſuch goods, ſhips, monyes, &amp; vvhatſoeuer hath beene taken vvay fr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m the E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>glish nation, ſhall bee preſently, iuſtly &amp; abſolutely reſtored to them</p>
+            </div>
+            <div n="20" type="article">
+               <head>XX</head>
+               <p>All our Beglerbeges, Beges, Captaines, maſters of Imperiall ſhips, &amp; other priuate Iudges, Gouernours, Cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tomers, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>armers &amp; all our miniſters, ſubiects, &amp; ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aues, ſhal allvvayes, obey &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eep the t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of theſe our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vvoa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Capitulations, &amp; ſhall vvith all obſeruance, reſpect the friendſhip, &amp; good correſpon<g ref="char:EOLhyphen"/>dence,
+<pb n="6" facs="tcp:95442:7"/> eſtablished on both parties, euery one in particular taking eſpeciall care, not to com<g ref="char:cmbAbbrStroke">̄</g>it any Act contrary thereunto And as long as the ſaid Queene of England according to this preſent agreement of ſincere friendeſhip, &amp; good corrspon<g ref="char:EOLhyphen"/>dence ſhall ſhevv herſelf, &amp; remaine vvith Vs, in peace, friend<g ref="char:EOLunhyphen"/>ſhip, &amp; league, firme, conſtant, &amp; ſincere, vvee doe promiſe alſo on our parts reciprocally, that this peace, frindſhip Articles Capitulations, &amp; correſpondence in the fore vvritten forme ſhall bee for euer of Vs maintained, obſerued, &amp; reſpected, &amp; of no man any part thereof ſhall bee contradicted, or infringed all vvhich aboue mentioned Articles of peace, &amp; friendſhip vvere concluded, ſigned, &amp; an Imperiall Capitulation granted &amp; confirmed by our Anceſtors of happy memorie.</p>
+               <p>Since vvhich time his Ma.<hi rend="sup">tie</hi> of England Iames deceaſed in the time of our Grand father of happy memorie Sultan ACHMET Han hauing ſent unto our Imperiall throne, is Embaſſadours, letters, &amp; preſents vvhich vvere most acceptable, And deſired that the all<g ref="char:EOLhyphen"/>ready contracted peace, &amp; friendſhip, &amp; good correſpondence ma<g ref="char:EOLhyphen"/>de vvith our Grand fathers, &amp; the Capitulations, Articles, And pri<g ref="char:EOLhyphen"/>uiledges aboue vvritten, ſhould bee againe ratifyed, &amp; the ſaid peace, &amp; friendſhip renevved, Farther requeſting that certaine Articles uery neceſſarie ſhould to the ſame Capitulations bee added, The deſire of his Maieſtie being declared in the Imperiall preſence of our ſaid Gran father Sultan ACHMET Han, vvas preſentlie granted: And hee gaue expreſſe com<g ref="char:cmbAbbrStroke">̄</g>and, and order that the ſaid peace, &amp; friendſhip ſhould bee renevved, &amp; fortifyed &amp; the antient Capitulations, &amp; priuiledges confirmed, &amp; that the nevv deſired articles ſhould bee inſerted, &amp; added to the Imperiall Capitulations. Granting farther to the English nation all thoſe Articles &amp; farther priuiledges vvhich vvere giuen, &amp; vvritten in any Capitulations vvith other nations, Potentates or Kings in peace, &amp; amitie vvith this Imperiall Port: &amp; by this Imperiall com<g ref="char:cmbAbbrStroke">̄</g>and bee gaue order that theſe his Imperiall com<g ref="char:cmbAbbrStroke">̄</g>ands, ſhould bee obeyed of all men, &amp; the tenour of them dulie obſerued The articles vvhich then were granted, &amp; added to the Capitulations vvere theſe follovving.</p>
+            </div>
+            <div n="21" type="article">
+               <head>XXI</head>
+               <p>That our Miniſters ſhall not demand, or take of the ſaid English Nation any coſtume, or other duties of all the dollars, che<g ref="char:EOLhyphen"/>queens, they or any under their banner, ſhall bring in, or trans<g ref="char:EOLhyphen"/>port from place to place, or carry out of our dominions, &amp; that nether Beglerbeges, Beyes, Caddees Treasurers, Mint Maſters, or other, ſhall take, &amp; demand, either dollars, or chequeens from the ſaid nation to change them into ſmall aſpres, nor ſhall giue, or doe them any uiolence or trouble there upon.</p>
+            </div>
+            <div n="22" type="article">
+               <pb n="7" facs="tcp:95442:7"/>
+               <head>XXII</head>
+               <p>The English Nation, &amp; all thoſe that come Vnder their banner, their Veſſells ſmall, &amp; great, ſhall &amp; may nauigate, traffick, buy ſell, &amp; abide in all parts of our Dominions, &amp; excepting Armes, Gun povvder, &amp; other ſuch prohibited com<g ref="char:cmbAbbrStroke">̄</g>odities, they may loa<g ref="char:EOLhyphen"/>de, &amp; carry avvay in their ſhips vvhatſoeuer of our merchan<g ref="char:EOLhyphen"/>dizes at their ovvne pleaſure, vvithout the impeachment or trouble of any man, &amp; their ſhips, &amp; Veſſells may come ſafelie, &amp; ſecurelie to anchor at all times, &amp; traffick at all times in euerie part of our dominions, &amp; vvith their monie buy Victualls &amp; all other things vvithout any contradiction, or hin<g ref="char:EOLhyphen"/>derance of any man.</p>
+            </div>
+            <div n="23" type="article">
+               <head>XXIII</head>
+               <p>And if any difference, ſhall happen vvith any of the ſaid English Nation, by ſuite in lavv, or any other controuerſie, the Caddees, or any other miniſters of our Iuſtice, ſhall not heare, nor decide the cauſe, untill the Embaſſadour, Conſul, or Dru<g ref="char:EOLhyphen"/>ggerman of the ſaid nation ſhall bee preſent.</p>
+            </div>
+            <div n="24" type="article">
+               <head>XXIIII</head>
+               <p>All difference, or ſuites of lavv depending vvith the ſaid nation vvhich ſhall exceed the ualue of 4000 aſpers, ſhall allvvayes bee heard, &amp; decided at our Imperiall Port.</p>
+            </div>
+            <div n="25" type="article">
+               <head>XXV</head>
+               <p>The English Nations Conſul, or Reſident in any port of our dominions being eſtabliſhed by the Embaſſadour Reſident for the English Nation, our miniſters ſhall haue no povver to impri<g ref="char:EOLhyphen"/>ſon or examine, or ſeale up their houſes, nor to diſmiſſe or diſplace them from their charge, &amp; office, but in caſe of any difference, or ſuite vvith the Conſul, there ſhall bee made a certificate to the Imperiall Port, to the end that the Embaſſadour may protect, &amp; anſvver for them.</p>
+            </div>
+            <div n="26" type="article">
+               <head>XXVI</head>
+               <p>VVhen any Englishman, or other under their banner ſhall die in our dominions, vvith their goods or faculties, or any thing that belonged unto them our Eſcheators. Caddees, or other minis<g ref="char:EOLhyphen"/>ters upon pretence they are goods of the dead vvithout any ovvner, ſhall not medle, take, or ſeize any part thereof but they ſhall allvvayes bee conſigned, &amp; remaining to ſuch other English, as the deceaſd ſhall by his teſtament aſſigne, &amp; if hee died inteſtate, then the English Conſul ſhall take, &amp; receiue his faculties, &amp; goods, &amp; if there bee no Conſul, the English Reſident there ſhall take the poſſeſſion, &amp; in caſe there bee neither Conſul, nor English, the ſaid goods &amp; faculties vvhatſoeuer ſhall bee receiued into the Cuſtodie of the Caddee of that place, &amp; hauing aduiſed the english Embaſſadour there of the ſaid caddee ſhall reſigne all the ſaid goods, Vnto ſuch perſons as the
+<pb n="8" facs="tcp:95442:8"/> Embaſſadour ſhall ſend vvith com<g ref="char:cmbAbbrStroke">̄</g>iſſion to receiue them.</p>
+            </div>
+            <div n="27" type="article">
+               <head>XXVII</head>
+               <p>All theſe Priuiledges, &amp; other liberties granted to the English Nation, &amp; thoſe vvho come Vnder their protection by diuerſe Imperiall com<g ref="char:cmbAbbrStroke">̄</g>ands vvhether before, or after the date of theſe Imperial Capitulations, ſhall bee allvvayes obeyed, &amp; obſer<g ref="char:EOLhyphen"/>ued, &amp; ſhall allvvayes bee underſtood, &amp; interpreted in fauour of the English nation, according to the tenour, &amp; true con<g ref="char:EOLhyphen"/>tents thereof.</p>
+            </div>
+            <div n="28" type="article">
+               <head>XXVIII</head>
+               <p>Neither the Officer called the Caſſam or gatherer of the Caddees duties in caſe of death, nor the Caddee ſhall pretend, or take of the ſaid English nation, any kind of tenths, or Caſmetts or fee of diuiſion.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X VIIII</head>
+               <p>The Embaſſadour of the King of England, or Conſul reſiding in our dominions, ſhall &amp; may take into their ſeruice any Ianizary, or Interpreter at their ovvne charge, &amp; choice &amp; no Ianizatie nor other our ſlaues, ſhall put them ſelues or intermedle vvith their ſeruice against their liking, or conſent.</p>
+            </div>
+            <div n="30" type="article">
+               <head>XXX</head>
+               <p>The Embaſſadour of his Ma.<hi rend="sup">tie</hi> of England, &amp; Conſul, &amp; the English Nation reſiding in our Empire, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the uſe of their ovvne perſons &amp; famili<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s making must, or vvine in their ovvne houſes, none of our miniſters, Caddees, or Ianizaries, ſhall molest, or hinder them, or demand any duties, or mony, or doe them any uiolence, or impediment.</p>
+            </div>
+            <div n="31" type="article">
+               <head>XXXI</head>
+               <p>In the Port of Conſtantinople Aleppo Alexandria, Scio Smirna, &amp; in other parts of our domi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions, the E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>glish merchants hauing pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the cuſtome of their merchandize <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccording to the teno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of the Imperiall Capitula ions, no man ſhall molest, or t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouble, or take from them any thing more &amp; vvhatſoeuer merchandize ſhall bee loaden Vpon their ſhips, &amp; brought in our dominions, &amp; landed at any Scale, they being deſirous to lade it againe, &amp; to tranſport it to any other Scale, or Port, the ſame goods arri<g ref="char:EOLhyphen"/>uing in the ſecond place, &amp; Scale, &amp; being there unladen, neither the Cuſtomer, nor Farmers, nor any other our officers ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll pretend, or take againe any Cuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omes, or Gabells of the ſaid merchandize, that th ſaid nation may allvvayes freely, &amp; ſecurely trade, &amp; follovv their buſineſſe.</p>
+            </div>
+            <div n="32" type="article">
+               <head>XXXII</head>
+               <p>Neither of the English Nation, nor of any tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding under their ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner, there ſhall not bee demanded nor gathered one <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> er, nor any mo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the name of impoſition <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aſiapie, or co<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſi<g ref="char:EOLhyphen"/>tions for flesh for the Ianizaries.</p>
+            </div>
+            <div n="33" type="article">
+               <pb n="9" facs="tcp:95442:8"/>
+               <head>XXXIII</head>
+               <p>There having beene in times paſt a di ference betvv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ene the Embaſſadour of the Queene of England &amp; the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch Embaſſa<g ref="char:EOLhyphen"/>dour both Reſident in our Port about the merch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts of the Dutch nation both vvhich Embaſſadours ſent their petitions to our Imperiall ſtirrup: And made request, that the ſaid Dutch me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>chants coming into our dominions ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er their banner; vvhich request of both Embaſſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ours vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s granted under our Imperiall Seal; not vvith<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing Si<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Sonne of Cigala Captaine of the Sea, novv <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſed, as Admirall &amp; practiſed in marittime caſes, hauing a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uiſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Imperiall <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ieſtie that it vvas fit, &amp; conuenient, that the Dutch nation ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld bee aſſigned to the protection of the Amb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our of E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, &amp; that it ſhould bee ſo vvritten in their Capitulations vvhich opinion b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g by all the Viziers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pproued; by expreſſe or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, &amp; Imperiall aut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oritie it vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:cmbAbbrStroke">̄</g>anded that the D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch merch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts of the Prouinces of Holland, Zeland, Freezelan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; Geld<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, Tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is, the merchan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of thoſe 4 Prouinces trading in our dominions, ſhall allvvayes come under the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nner of the Queene of England as all other Eng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h doe, &amp; that of all the goods, &amp; merchandize vvhich th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſhall, or doe import or export, to &amp; from our domi<g ref="char:EOLhyphen"/>nion, in their Veſſells, they ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll pay the duties of Conſulage, &amp; all other du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies to the Embaſſadour o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conſul of the Queene of England; And that neuer hereafter th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> french Embaſſadour or Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſul ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll inſinuate, nor intermedle herein, &amp; ac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ordingly It vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s com<g ref="char:cmbAbbrStroke">̄</g>anded; that for the time to come, it ſhould bee ruled &amp; obſerued according to this preſent Capitulation,</p>
+               <p>After vvhich there being arriued an other Ambaſſadour at this HighPort ſent from the king of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngland vvith letters, &amp; preſents, vvhich vve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e most acceptable, the ſaid Ambaſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dour did make re<g ref="char:EOLhyphen"/>que<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t that certaine other neceſſarie articles ſhould bee added, &amp; vvritten in the Imperiall Capitulations; of vvhich the first vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; As in times past, in the dayes of one of our forefathers of famous memorie Sultan Soliman Han, there vvas gran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed a ce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>taine Capi<g ref="char:EOLhyphen"/>tulation, &amp; priuiledge, that the m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chants of the ſpanish nation Portugall, Ancona, Ciuilla, Florence, Cat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nia, &amp; all ſorts of Dutchmen, &amp; other merchant ſtrangers, might ſafely, &amp; ſecurely goe, &amp; come through all the places of our dominions, &amp; trade, &amp; tra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fick, granting unto them Moreouer, that in any part of our Empire th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y might e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lish their Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſuls; But it being that eu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry nation apart vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not able to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fray the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harges, &amp; m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tenance of a Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſul; It vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s then left to their vvill, &amp; ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ice to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er the banner of ſuch A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our or Consul as <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> like <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prouided that it vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re an Ambaſſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, or Co<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l of a King in peace, &amp; amitie vvith our High Fort upon vvhich
+<pb n="10" facs="tcp:95442:9"/> Grant, &amp; other priuiledges giuen them, there vvere often gran<g ref="char:EOLhyphen"/>ted diuerſe Imperiall com<g ref="char:cmbAbbrStroke">̄</g>ands, &amp; conſtitutions, being ſo deſired by merchant ſtrangers, vvho of their ovvne vvill elected to trade under the banner, &amp; protection of the Embaſſadour, &amp; Conſul of the King of England. And vvhilest in all Scales, &amp; Ports in theſe parts they had refuge to the banner, &amp; protection of the English Conſuls It ſeemeth, that the French Ambaſſadour by ſome meanes hauing a nevv gotten into their Capitulations, that the ſaid merchant ſtrangers ſhould come under their banner, did endeauour to force them in all Scales to their protection; for vvhich cauſe the controuerſie vvas againe renevved &amp; referred to our Diuan, or Great Councell vvhich after a due examination &amp; a nevv election permited to the vvill, &amp; choice of the ſaid merchants, they againe did deſire to bee under the protection of the Ambaſſadour of the King of England, notvvithſtanding it being made knovvne to the Imperiall Port that as yet the french Embaſſadour did not deſire to molest the ſaid merchants, nor to force them under his protection, the first Article vvritten in the french Capitulations, that the merchants ſtrangers ſhould come under their protection, vvas by the Imperiall com<g ref="char:cmbAbbrStroke">̄</g>and made Void &amp; annulled; And to the end that according to the antient cuſto<g ref="char:EOLhyphen"/>me of the ſaid merchant ſtrangers they ſhould allvvayes come under the banner, &amp; protection of the Ambaſſadour, or Conſuls of England; &amp; that neuer, hereafter they ſhould bee uexed, or tro<g ref="char:EOLhyphen"/>ubled by the french Embaſſadour in this point The ſaid Embaſſa<g ref="char:EOLhyphen"/>dours of his Maieſtie of England hauing deſired that this parti<g ref="char:EOLhyphen"/>cular ſhould bee vvritten, &amp; enrouled in this nevv Imperiall Ca<g ref="char:EOLhyphen"/>pitulationj this preſent article vvas accordingly inſerted, &amp; by the Imperiall authoritie It is com<g ref="char:cmbAbbrStroke">̄</g>anded, That for euer in time to come, merchants of the ſaid Princes, in the mentioned forme, &amp; according to this Imperiall com<g ref="char:cmbAbbrStroke">̄</g>and in their hand, ſhall allvvayes bee under the banner, &amp; protection of the Embaſſadour, &amp; Conſuls of England.</p>
+            </div>
+            <div n="34" type="article">
+               <head>XXXIIII</head>
+               <p>There ſhall neuer bee permitted, or granted any Imperiall co<g ref="char:EOLhyphen"/>m<g ref="char:cmbAbbrStroke">̄</g>ands, contrary to the tenour, &amp; articles of this Imperiall co<g ref="char:EOLhyphen"/>m<g ref="char:cmbAbbrStroke">̄</g>and, or Capitulations, nor in preiudice of this our peace &amp; amitie, but in ſuch occaſion the cauſe ſhall first bee certifyed to the Ambaſſadour of England reſiding at the Port, to the end, that bee may anſvver, &amp; obiect any ſcandalous action or other pretence, vvhich might infringe the peace, &amp; league.</p>
+            </div>
+            <div n="35" type="article">
+               <head>XXXV</head>
+               <p>The English merchants of all the merchandize, vvhich they ſhall bring, or tranſport in their ſhips hauing paid the cuſtome, they ſhall alſo pay the right of Conſulage to the English Ambaſſa<g ref="char:EOLhyphen"/>dour, or Conſul.</p>
+            </div>
+            <div n="36" type="article">
+               <pb n="11" facs="tcp:95442:9"/>
+               <head>XXXVI</head>
+               <p>The Eng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish merchants, &amp; all under their banner, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all &amp; may ſafely throughout our dominion, trade, buy, ſell, (except only com<g ref="char:cmbAbbrStroke">̄</g>odities prohibited) all ſorts of merchandize; likevviſe either by land, or ſea, they may goe, &amp; traffick, or by the vvay of the riuer Tanais in Moscouia or by Ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſia, &amp; from thence may bring their merchandize into our Empire, alſo to, &amp; from Perſia, they may goe, &amp; trade, &amp; through all that part nevvly by Vs con<g ref="char:EOLhyphen"/>quered, &amp; through thoſe confine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, vvithout the impediment, or moleſtation of any of our miniſters, &amp; they ſhall pay the cuſtome &amp; other duties of that country, &amp; nothing more.</p>
+            </div>
+            <div n="37" type="article">
+               <head>XXXVII</head>
+               <p>The English merchants, &amp; all under their banner ſhall &amp; may ſafely, &amp; freely trade, &amp; negotiate in Aleppo, Cairo, Scio, Smirna &amp; in all parts of our dominions, &amp; according to our antient cuſto<g ref="char:EOLhyphen"/>mes of all their merchandize, they ſhall pay three in the hund<g ref="char:EOLhyphen"/>red for cuſtome, &amp; nothing more.</p>
+            </div>
+            <div n="38" type="article">
+               <head>XXXVIII</head>
+               <p>The English ſhips vvhich ſhall come to this our city of Conſtanti<g ref="char:EOLhyphen"/>nople if by fortune of ſeas, or ill vveather, they ſhall bee forced to Co f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or to ſuch like Port; as long as the English vvill not unla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e &amp; tell their ovvne merchandize, &amp; goods, no man ſhall enforce them, nor gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e them any trouble, or annoyance, but in all places of danger, the Caddees, or other of our mini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters, ſhall al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vvayes protect, &amp; defend the ſaid English ſhips, men, &amp; goods, that no damage may come u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to them, &amp; vvith thir mony may buy uictualls, &amp; other neceſſaries; &amp; deſiring alſo vvith their mony to hire carts, or ueſſells, vvhich before vvere not hired by a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y other, to tranſport their goods from place to place, no man ſhall doe them any hinderance, or trouble vvhat ſoeuer.</p>
+            </div>
+            <div n="39" type="article">
+               <head>XXXIX</head>
+               <p>The English Nation of all the merchandize vvhich in their ſhips ſhall bee brought to Conſtantinople or to any other part of our dominions vvhich they ſhall not deſire of thir ovvne accord to land, or ſell, of ſuch goods there ſhall not bee demanded; or tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n any cuſtome at arriuall at any Port, &amp; hauing landed their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<g ref="char:EOLhyphen"/>chandize, &amp; paid their cuſtomes, &amp; other duties, they may quietly &amp; ſafely depart vvith out the mole<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tation of any man.</p>
+            </div>
+            <div n="XXXX" type="article">
+               <head>XXXX</head>
+               <p>In regard English ſhips coming into our dominions, doe uſe often times to touch in ſome part of Africa, &amp; there take in Pilgrims, &amp; Mahometan paſſengers to tranſport them to Alexan<g ref="char:EOLhyphen"/>dria, &amp; arriuing at that Port, It ſeemeth that the Cuſtomers, &amp; other officers, doe prete<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to take cuſtome of all goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, vvhich are found in t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir ſhips before the merchants are vvillin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d any; by occaſion of vvhich moleſtation they haue forbo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e to
+<pb n="12" facs="tcp:95442:10"/> tranſport any pilgrims. And in like manner, their ſhips vvhich come to Conſtantinople &amp; carry diuerſe merchandize, to tran<g ref="char:EOLhyphen"/>ſport part thereof to other places, the cuſtomers, &amp; Farmours vvould enforce to land, &amp; pretend to take cuſtome thereof. VVherefore vvee doe com<g ref="char:cmbAbbrStroke">̄</g>and, that all the English ſhips vvhich vvith their merchandize ſhall come into this Port of Conſtanti<g ref="char:EOLhyphen"/>nople, Alexand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia, Tripoli of Suria, Scanderoone, or into any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort vvhatſoeuer of our Empire according to uſe, they ſhall pay only cuſtome of ſuch goods, vvhich vvith their ovvne vvill they ſhall deſigne to ſell, &amp; ſuch other merchandize, as they dis<g ref="char:EOLhyphen"/>charge not from their ſhips vvillingly our cuſtomer ſhall not demand, nor take cuſtome, nor other duties, but they may tran<g ref="char:EOLhyphen"/>ſport them vvhether ſoeuer they pleaſe.</p>
+            </div>
+            <div n="XXXXI" type="article">
+               <head>XXXXI</head>
+               <p>And if it ſhall happen, That any of the ſaid English Nation, or any under their banner ſhall com<g ref="char:cmbAbbrStroke">̄</g>it man ſlaughter, bloudſhed, or any other like offence; or that there ſhall happen any cauſe appertaining to the lavv, or Iuſtice, untill the Embaſſadour or Conſul ſhall bee preſent, to examine the cauſe, the Iudges, nor other miniſters, ſhall not decide nor giue any ſentence, but ſuch controuerſie ſhall allvvayes bee declared in the preſence of the Embaſſadour, or Conſul to the end, that no man bee Iudged, or condemned contrary to the lavv, &amp; the capitulations.</p>
+            </div>
+            <div n="XXXXII" type="article">
+               <head>XXXXII</head>
+               <p>VVhereas it is vvritten, in the Imperiall Capitulations, that the goods landed out of any English ſhip, vvhich ſhall come into our dominions, &amp; pay cuſtome ought alſo to pay the dutie of Conſulage, to the English Embaſſadour, or Conſul. it ſeemeth That diuerſe Mabometan merchants, Sciots, &amp; other merchants in peace, &amp; amitie vvith this Imperiall Port, &amp; other merchant ſtrangers doe deny, &amp; refuſe to pay the right of conſulage. VVherefore, It is com<g ref="char:cmbAbbrStroke">̄</g>anded, that all the merchandize vvhich ſhall bee laden upon their ſhips, &amp; haue paid cuſtome bee they goods of vvhomſoeuer, according to antient Imperiall Capitula<g ref="char:EOLhyphen"/>tions, they ſhall pay the right of Conſulage to the Embaſſadour or Conſul of England vvithout any contradiction.</p>
+            </div>
+            <div n="XXXXIII" type="article">
+               <head>XXXXIII</head>
+               <p>That English merchants vvhich trade at Aleppo, &amp; thoſe under their banner of all the ſilke vvhich they ſhall buy, &amp; lade upon their ſhips, ſhall pay the cuſtome, &amp; other duties, as the french, &amp; Venetian merchants doe pay, &amp; not one aſper, or farthing more.</p>
+            </div>
+            <div n="XXXXIIII" type="article">
+               <head>XXXXIIII</head>
+               <p>As the Embaſſadours of the King of England vvhich ſhall bee Reſident in this Imperiall Court are the Repreſentatiues, &amp; Comiſſioners of the person of his Maieſtie ſo the Interpreters are
+<pb n="13" facs="tcp:95442:10"/> to bee eſteemed the Com<g ref="char:cmbAbbrStroke">̄</g>iſſioners of the Embaſſadour, Therefore for ſuch matter as the Interpreters ſhall translate or ſpeake in the name, or by the order of the Ambaſſadour; it being found that that vvhich they haue tranſlated, to bee according to the vvill, &amp; order of the Embaſſadour, or Conſul, they ſhall bee all<g ref="char:EOLhyphen"/>vvayes free, from any imputation, or punishment. And in case they ſhall com<g ref="char:cmbAbbrStroke">̄</g>it any offence, our miniſters ſhall not put any of the ſaid Interpreters in priſon, nor beat them vvithout knovv<g ref="char:EOLhyphen"/>ledge of the Ambaſſadour, or Conſul; in caſe any of the English Interpreters ſhall die, if hee bee an Englishman, all his goods, or faculties ſhall bee poſſeſſed by the Ambaſſadour, or Conſul of England, but if bee ſhall bee a ſubiect of our dominion, they ſhall bee conſigned to his next heire, &amp; hauing no heire, they ſhall bee taken into our Exchequor. And as in this particular ſo alſo in all other the aboue mentioned articles, &amp; priuiledges granted by our forefathers of happy memorie, It is expreſſely com<g ref="char:cmbAbbrStroke">̄</g>anded &amp; Ordained, That all our ſlaues ſhall euer obey, &amp; obſerue this Imperiall Capitulation &amp; that the peace, &amp; amitie ſhall bee reſ<g ref="char:EOLhyphen"/>pected &amp; maintained, vvithout any uiolation vvhatſoeuer.</p>
+            </div>
+            <div n="XXXXV" type="article">
+               <head>XXXXV</head>
+               <p>Since vvhich time of our fore fathers of famous memorie, &amp; the gran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of theſe aboue mentioned Capitulations, articles, &amp; eſtab<g ref="char:EOLhyphen"/>liſhment of peace, &amp; amitie, the ſaid King of England hauing in the time of our grand father of happy memorie Sultan Mahomet Han ſent one, his vvell deſired Ambaſſadour a perſon of qualitie to this high Port, to confirme this peace, articles &amp; Capitula<g ref="char:EOLhyphen"/>tions vvhich Embaſſadour did declare, that often times there vvere to diuerſe perſons Imperiall com<g ref="char:cmbAbbrStroke">̄</g>ands granted, ſubrepti<g ref="char:EOLhyphen"/>tiouſly procured contrary to the tenour, &amp; articles of the Impe<g ref="char:EOLhyphen"/>riall capitulations; vvhich being vvithout our knovvledge pre<g ref="char:EOLhyphen"/>ſented to our Iudges, and Gouernours, &amp; the da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of ſuch co<g ref="char:EOLhyphen"/>m<g ref="char:cmbAbbrStroke">̄</g>ands being more fresh then thoſe of our Imperiall Capitula<g ref="char:EOLhyphen"/>ions: the Iudges, &amp; miniſters doe put in execution the priuate com<g ref="char:cmbAbbrStroke">̄</g>ands preiuditial &amp; contrary to theſe Imperiall. To the end therefore, that for the time to come, ſuch commands ſhall not bee accepted of any, but that the imperiall Capitulations might bee allvvayes obſerued, &amp; maintained, according to the ſincere meaning; the ſaid Ambaſſadour demonſtrating the ſinceritie of his Maieſtie &amp; his request herein to our Imperiall knovvledge, vvhich vvas most acceptable; in conformitie thereuto it vvas ex<g ref="char:EOLhyphen"/>preſſely ordered; That all ſuch com<g ref="char:cmbAbbrStroke">̄</g>ands vvhich allready haue beene, or ſhall hereafter bee granted, vvhich are, or ſhal bee repugnant to the tenour of this Imperiall Capitulation, vvhat<g ref="char:EOLhyphen"/>ſoeuer ſuch commands ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll bee vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en preſented before our Caddees, or other miniſters, ſhould neuer bee accepted, or put into execution, but that allvvayes the tenour of the Imperiall
+<pb n="14" facs="tcp:95442:11"/> Capitulations ſhall bee obſerued; And vvhoſoeuer ſhall preſent ſuch com<g ref="char:cmbAbbrStroke">̄</g>and contrary to the Capitulations, they ſhall bee taken from him, &amp; in no vviſe bee of any force, or ualiditie. In vvhich time alſo on the part of our ſaid Grand father all the aboue vvrit<g ref="char:EOLhyphen"/>ten Priuiledges, Articles, &amp; Capitulations, vvere accepted, &amp; rati<g ref="char:EOLhyphen"/>fyed, &amp; the peace, amitie, &amp; good correſpondence antiently con<g ref="char:EOLhyphen"/>tracted vvas a nevv of him confirmed &amp; eſtabliſhed.</p>
+            </div>
+            <div n="XXXXVI" type="article">
+               <head>XXXXVI</head>
+               <p>In the time of the inauguration of Sultan OSMAN Han in the Imperiall, &amp; high throne, the King of England did againe ſend a famous, &amp; noble Geentleman, his Embaſſadour, vvith letters, &amp; preſents vvhich vvere most acceptable. And the ſaid Ambaſſadour deſiring in the name of his King, &amp; Lord, that the antient Capitulation, articles, &amp; contracts granted in the dayes of our forefathers ſhould bee of him renevved, &amp; confirmed, &amp; the antient peace, &amp; amitie, anevv fortifyed, &amp; eſtabliſhed, vvhich his request vvas to the ſaid Sultan Oſman moſt acceptable. And the antient Capitulations, articles, Priuiledges, herein vvritten, &amp; confirmed, &amp; the long ſince contracted peace, &amp; amitie by him promiſed, &amp; accepted.</p>
+            </div>
+            <div n="XXXXVII" type="article">
+               <head>XXXXVII</head>
+               <p>After vvhom in like manner, in the dayes of Sultan OSMAN Han the King of England hauing againe ſent unto this high Port his Ambaſſadour the Excellent, &amp; honnourable, ſr THOMAS Roe Knight vvith his letters, &amp; preſents, vvhich vvere moſt aceptable; &amp; proffering in the name of the King his Lord, all good termes of friend ſhip, &amp; good correſpondence? And des<g ref="char:EOLhyphen"/>iring that the antient Capitulations, &amp; all the articles from his Anceſtours, &amp; from himſelf formerly granted to the English na<g ref="char:EOLhyphen"/>tion might bee anevv confirmed, &amp; the peace, &amp; league long ſince betvveene both parties contracted, &amp; ratifyed; &amp; that ſome other articles uery neceſſary might bee added to the Imperiall Capitulations, &amp; diuerſe others allready granted might bee rene<g ref="char:EOLhyphen"/>vved, amended, &amp; in a better forme explained, vvhich his requeſt &amp; demand vvas uery acceptable unto him; &amp; in conformitie the<g ref="char:EOLhyphen"/>reunto, the antient Imperiall Capitulations, &amp; all the articles, &amp; other priuiledges in them often confirmed, &amp; the peace, ami<g ref="char:EOLhyphen"/>tie, &amp; good corrſpondence contracted, in the times of his Ances<g ref="char:EOLhyphen"/>ters, Grand father, &amp; father, &amp; himſelf confirmed, vvere againe by Sultan OSMAN then ratifyed, eſtabliſhed, promiſed, &amp; accep<g ref="char:EOLhyphen"/>ted, vvhereupon by him there vvas expreſſe com<g ref="char:cmbAbbrStroke">̄</g>and giuen, that for the time to come, the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enour of his renevved Capitulations ſhould bee of euery one obſerued, &amp; that all men ſhould bee ca<g ref="char:EOLhyphen"/>refull, &amp; reſpectfull to the<g ref="char:cmbAbbrStroke">̄</g> ſaid peace, &amp; friende ſhip eſtabliſhed, &amp; contracted on both partes, &amp; that no man ſhould preſume to uiolate, or to doe any act contrary thereunto vvhich Emabſſadour
+<pb n="15" facs="tcp:95442:11"/> did often declare that the Caddees, &amp; other of our miniſters, in many places, &amp; prouinces, contrary to the Imperiall Capitulations &amp; vvill of the Imperiall Maieſtie haue impoſed, &amp; laid diuerſe taxes, burdens, &amp; monies upon the ſaid English Nation, &amp; thoſe under their banner, for vvhich cauſe as it is aboue declared, it being found neceſſary to make additions of ſome nevv articles in the ſaid Imperiall Capitulation, of vvhich the ſaid Ambaſſadour made declaration in vvriting, &amp; preſented the ſame to the Impe<g ref="char:EOLhyphen"/>rial preſence; The ſaid Sultan OSMAN Han vvith his Imperiall hand, &amp; ſeale did preſently giue expreſſe order, &amp; com<g ref="char:cmbAbbrStroke">̄</g>and, that in the time to come, all thoſe articles, &amp; priuiledges vvhich vvere allready in the Imperiall Capitulations, &amp; thoſe articles vvhich novv are there in by our order nevvly added ſhall bee of all our ſubiects, &amp; ſlaues duely obeyd, &amp; obſerued according to the ſincere meaning of this our Imperiall Capitulations.</p>
+            </div>
+            <div n="XXXXVIII" type="article">
+               <head>XXXXVIII</head>
+               <p>In as much as it is publickly knovvne, That certaine pyrates of Tunis, &amp; Algier, contrary to our Imperiall Capitulations, mind, &amp; vvill, doe take, &amp; rob in the ſeas, the ſhips merchandize &amp; men, ſubiects to his Maieſtie of England, &amp; of other Kings, &amp; ſtates in league vvith this our Imperiall Port, to the great Dama<g ref="char:EOLhyphen"/>ge, &amp; iniurie of the ſaid English Nation, vvee doe com<g ref="char:cmbAbbrStroke">̄</g>and &amp; by the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e preſents vvee doe ordaine, that ſeuerall Imperiall com<g ref="char:EOLhyphen"/>mands bee giuen, for the entire reſtitution of all goods, &amp; mer<g ref="char:EOLhyphen"/>chandize to the English Nation ſo taken avvay, And that all ſuch English as haue beene taken, &amp; made ſlaues, or impriſoned by the ſaid pyrates ſhall bee im<g ref="char:cmbAbbrStroke">̄</g>ediately ſet free. And after the date of this our Imperiall Capitulations; If it ſhall bee knovvne, that the ſaid Pyrates, of Tunis, &amp; Algier, ſhall rob them againe, &amp; ſhall uſe, &amp; continue their outrages, &amp; vvill not reſtore their goods, &amp; men, vvee doe com<g ref="char:cmbAbbrStroke">̄</g>and that the ſaid pyrates, bee not receiued into any Port of our dominions, eſpecially into the Scales of Tunis, Algier, Modon, or Coron. Our Beglerbegs, &amp; other minſters, ſhall not ſuffer them to enter, nor barbour, nor receiue them, but the Beglerbeges, Caddees, or other miniſters ſhall perſecute, baniſh, &amp; puniſh them.</p>
+            </div>
+            <div n="XXXXVIIII" type="article">
+               <head>XXXXVIIII</head>
+               <p>Being informed that in our dominions many of our Cuſtomers, &amp; other officers in Aleppo contrary to the Imperial Capitulations under colour of taking cuſtome, &amp; rest upon ſilke of the English merchants, haue uiolently taken from the ſaid merchants agreat ſum of mony. And vvhereas in the Imperiall Capitulations, it is vvritten that for ſilke vvhich the English ſhall buy in Aleppo, they ſhall pay as the french, &amp; Venetian merchants doe, &amp; no more; Notvvithſtanding the ſaid cuſtomers, beſides the tvvo &amp; half per cent for cuſtome &amp; Rest haue taken from that nation
+<pb n="16" facs="tcp:95442:12"/> a great ſum<g ref="char:cmbAbbrStroke">̄</g> of mony lately under name of Rest vvherefore vvee com<g ref="char:cmbAbbrStroke">̄</g>and that this buſſineſſe ſhall dee examined, &amp; that the ſaid mony bee reſtored back, &amp; for the time to come, the antient cuſtome may dee kept; And that this nation ſhall only pay, as the French, &amp; Venetian doe, &amp; that neuer bee taken one aſper by name of ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch impoſition.</p>
+            </div>
+            <div n="50" type="article">
+               <head>L</head>
+               <p>VVhereas the English merchants reſident in Galata, ordenarily buy diuerſe goods, &amp; merchandize before they can la ie, or ſend them avvay upon their ſhips, &amp; doe pay unto the cuſtomers, the cuſtome of the ſaid goods, receiuing a bill, or acquittance to haue paid the ſame, &amp; after carry the ſame merchandize to their ovvne vvare houſes: In the meane time before they can load, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end avvay the ſaid goods; It happens, that either the cuſtomer dies, or is remoued from his charge &amp; the nevv cuſtomers vvill not accept of the ſaid acquittances, but pretend an other cuſtome troubling, &amp; moleſting of them many vvayes. VVherefore vvee doe com<g ref="char:cmbAbbrStroke">̄</g>and, that of all the merchandize vvhich they ſhall buy, it appearing really that bee hath paid once his cuſtome, the cuſ<g ref="char:EOLhyphen"/>tomer ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccept of the ſaid acquittances, &amp; ſhall not demand of the merchant a ſecond cuſtome.</p>
+            </div>
+            <div n="51" type="article">
+               <head>LI</head>
+               <p>It being uſuall to buy in Angora, Chamblets, Mohaires, ſilkes &amp; other ſorts of merchandize vvhich they tranſport to Conſtanti<g ref="char:EOLhyphen"/>nople, &amp; other places of our dominions, &amp; pay their cuſtomes, taking acquittances for the ſame, &amp; so put the goods into their ovvne vvare houſes; And after being deſirous to ſhip them avvay, the cuſtomers doe demand againe the cuſtome, There fore for the time to come vvhen the ſaid merchants ſhall deſire to lade ſuch goods; &amp; it bee true that they haue allready paid their cuſtome of ſuch merchandize, they ſhall not demand any ſecond or nevv cuſtomes Prouided that the ſaid merchants doe not min<g ref="char:EOLhyphen"/>gle their goods, vvhich haue not paid cuſtome vvith thoſe vvhich haue allready paid cuſtome.</p>
+            </div>
+            <div n="52" type="article">
+               <head>LII</head>
+               <p>The English merchants of all the merchandize vvhich they ſhall bring into our dominions, &amp; of the merchandize vvhich they car<g ref="char:EOLhyphen"/>ry out of our dominions, as ſilke, chamblets, &amp; other goods, haui<g ref="char:EOLunhyphen"/>ng paid the cuſtome, &amp; not ſold the goods unto an other; And be<g ref="char:EOLhyphen"/>ing aftervvards to ſhip it avvay for Scio, Smyrna, or any other Sca<g ref="char:EOLhyphen"/>le, &amp; the ſaid goods there ariuing, the cuſtomers, &amp; officers ſhall allvvayes accept of their aquittances, vvhich they haue in their hands, &amp; ſhall not take other cuſtome of their merchandize.</p>
+            </div>
+            <div n="53" type="article">
+               <head>LIII</head>
+               <p>The English merchants of all the com<g ref="char:cmbAbbrStroke">̄</g>odities vvhich they ſhall bring to conſtantinople or to any other Port of our dominions, &amp;
+<pb n="17" facs="tcp:95442:12"/> of all ſuch as they ſhall tranſport, the Meſtaragi of Galata &amp; Conſtantinople ſhall take their Meſtaria or Brokidge according to the antient ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o, &amp; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ance, that is of ſuch merchandize, as of old cuſtome, vvas vvont to pay it, or ſuch they ſhall only take Meſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aria, but of ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch merchandize as vvas not antiently accuſto<g ref="char:EOLhyphen"/>med to pay it ſhall not bee taken <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>aria contrarie to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntient cannon. Farther upon the Engli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h merchandize, there ſhall not bee made, or laid any impoſitions, or other cauſes, Nor from the ſaid nation ſhall not bee taken one a<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r, more, vvhich ſhall bee contrary to the antient ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd accuſtomed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſance.</p>
+            </div>
+            <div n="54" type="article">
+               <head>LIIII</head>
+               <p>The English Nation ſhall, &amp; may freely come in to all the Ports of our do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inions to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egoti<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> &amp; bring in clo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Kerſie, ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, tinne, lead, &amp; all other merchandize, &amp; no <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall doe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i derance, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oleſtation, In <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>er except only goods prohibited, they ſhall &amp; may b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, &amp; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>port all ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of merchandize vvithout the prohibition, or mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tation of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y man; &amp; the cuſtomers, &amp; other <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, the ſaid nation <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing pai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their cuſtome according to this Imperiall Capitulation, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he antient uſe, ſhall not demand o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them any <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing more. In the time of the happy memorie of my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>an <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Han, the King of England ſent his Em<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>dour Sir <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> uiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ovv Baronet vvith his pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſent &amp; letter, vvh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> vvas <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eiued <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood part; &amp; the time of his Em<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g expi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, Sir Thomas Bendis<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> arriued to reſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at the Port vvith hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> preſent, &amp; co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rte<g ref="char:EOLhyphen"/>ous letter, the vvhich vv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke manner vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll accepted and the ſaid Embaſſadour hauing tend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Imperi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Capi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ula<g ref="char:EOLunhyphen"/>tion, formerly granted, that accordi g to the anti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt Cannon they might bee renevved, It is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y againe com<g ref="char:cmbAbbrStroke">̄</g>anded that all the points, &amp; particular Articles, therein bee obſerued, &amp; maintained.</p>
+            </div>
+            <div n="55" type="article">
+               <head>LV</head>
+               <p>And becauſe contrary to the ſence, &amp; tenure of them the ſhips of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nglish mer<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>s before they arr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> at th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enerall Officers did goe upon them &amp; uiolently force out of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ips the goods of the m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rchants, taking avvay the choi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of them vvithout <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the Price, or making any account vvith the ovvners</p>
+            </div>
+            <div n="56" type="article">
+               <head>LVI</head>
+               <p>And farthermore the ſaid m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> chants hauing once payed the cuſtome for their goods at the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rous to <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>port the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e good, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> an <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cuſtomers di<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> &amp; d<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e them, u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ill <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> r<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>iue other ſecond <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+            </div>
+            <div n="57" type="article">
+               <head>LVII</head>
+               <p>And vvher<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in the Imperiall C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tu<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xpreſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that
+<pb n="18" facs="tcp:95442:13"/> in all the differences, &amp; ſuites vvith the English Nation our Ma<g ref="char:EOLhyphen"/>giſtrates are not to heare nor decide the cauſe, unleſſe their Em<g ref="char:EOLhyphen"/>baſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>our or Conſul bee there preſent. Of late our Iudges vvitho<g ref="char:EOLhyphen"/>ut t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Knovvledge of their Embaſſadour haue condemned, im<g ref="char:EOLhyphen"/>priſoned, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> taken preſents from the English Nation vvhich is a great vvrong done to them.</p>
+            </div>
+            <div n="58" type="article">
+               <head>LVIII</head>
+               <p>Alſo vvhereas in the Imperiall Capitulations, it is ordered, that the Cuſtomers ſhall not take any cuſtome for ſuch gold, &amp; dol<g ref="char:EOLhyphen"/>lars as by the English Nation ſhall bee brought in, or carried out of Our Imperiall Dominions, &amp; that the merchants are to giue only three percent, for the cuſtome of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir goods, &amp; no more; the Cuſtomers notvvithſtanding doe pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end to take cuſtome for their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>equeens, &amp; dollars; &amp; to take more cuſtome then their due for their ravv ſilkes, vvhich they buy, &amp; of the goods vvhich they land at Scanderoone to carry up to Aleppo, they demand six per cento; vvhich uniust exactions haue beene heretofore rectifyed, &amp; redreſſed vvith an expreſſe Hatte ſheriffe. But being novv againe informed, that the ſaid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nglish merchants, are as before vvronged, by reaſon that the Cuſtomers doe ualue, &amp; eſtimate the goods of the English merchants more then they are vvor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h; &amp; though the Cuſtomers are to haue bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> three percent yet by an ouer ualuation of the goods they take from them six per cent. And the ſeruants of the Cuſtome houſe under pretence of ſmall duties, and expences vvrongfully take great ſum<g ref="char:cmbAbbrStroke">̄</g>es of mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y from them. And a greater number of vvaiters being put aboard the English ſhips, then heretofore haue beene uſed, the charges thereof are a great expence to the merchants, &amp; maſters of ſhips that ſuſtaine it. To all vvhich, vvee being requeſted for a redreſſe, doe Com<g ref="char:cmbAbbrStroke">̄</g>and, that vvhen the Cuſtomers doe ſet great ualues upon their goods, th merchant offering to them accor<g ref="char:EOLhyphen"/>ding to the rate of three per cent in specie of the ſame goods, the Cuſtomers ſhall not refuſe but accept the ſame. And being deſired by the English Embaſſadour that the bone ſpecifyed abuſes, &amp; iniuſtice ſhould bee rectifyed vvee Doe Com<g ref="char:cmbAbbrStroke">̄</g>and, that contrary to the Imperiall Capitulations the English merchants bee neither in the foregoing particulars, nor in any other manner troubled nor their priuiledges uniuſtly infringed.</p>
+               <p>The Embaſſadour of the King of Great Brittaine ſir Heneage <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inch Knight, Farle of VVinchilſea, Viſcount Maidſton, Baron Fit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her<g ref="char:EOLhyphen"/>bert of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vvell, Lord of the Royall Mannour of vvye, &amp; I Leiue<g ref="char:EOLhyphen"/>tenant of the Coun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie of Kent, &amp; Citty of Canterburie, vvhoſe end may it terminate vvi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h bliſſe: did a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riue vvith his preſents, and vvi<g ref="char:EOLhyphen"/>th all ſinceritie, &amp; aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction vvas accompanied vvith letters amply expreſſing the good friendſhip, &amp; correſpondence; &amp; that aboue
+<pb n="19" facs="tcp:95442:13"/> ſaid Embaſſadour hath preſented the Capitulations that they might bee renevved according to the Cannon And that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Ar<g ref="char:EOLhyphen"/>ticles of great conſideration vvhich vvere before in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apitu<g ref="char:EOLhyphen"/>lations may bee more punctually ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erued, the ſaid <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> adour did de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire that they might bee againe renevved, &amp; more <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ainly expreſſed in the Imperiall Capitulations His request vvas graci<g ref="char:EOLunhyphen"/>ouſly accepted; one of vvhich points is this.</p>
+            </div>
+            <div n="59" type="article">
+               <head>LIX</head>
+               <p>That the gallies, &amp; other ueſſells of the Imperiall Fleet departing the dominions of the Grand Signor, &amp; meeting on the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a vvith the ſhips of England, they ſhall in no vviſe giue them mo<g ref="char:EOLhyphen"/>leſtation, nor detaine them in their uoyage, nor take from them any thing vvhatſoeuer, but ought a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lvvayes to ſhovv to one &amp; other good friendſhip, vvithout doing the least damage,. And it being thus dec ared in the Imperiall Capitulations, the B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes and Captaines, vvho ſaile upon the Seas, &amp; thoſe of Algier, T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is, &amp; Tripoli meeting English ſhips vvhich ſaile from one Port to an other ought not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o take from them any mony, or goods u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on pretence that their ſhips tranſport enemies goods, &amp; there u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on ſearch them, &amp; vvith this colour molest, &amp; de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine them from proſecution of their uoyage, ſo that only at the mouth of the caſtles, &amp; in the Ports vvhere the ſearchers belonging to the cus<g ref="char:EOLhyphen"/>tomes uſual y come aboard, their goods shall bee examined, but on the Sea, they ſhall bee lyable to no farther ſearch or inquiſition.</p>
+            </div>
+            <div n="60" type="article">
+               <head>LX</head>
+               <p>And contrary to the Articles of the Imperiall Capitulations, the goods of the English Nation ought to receiue no moleſtation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auing once paid the Cuſtome, nor ſhall the cuſtomers deny to giue the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſchere, or certificate that the cuſtome is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid for, upon complaint hereof, vvee ſtrictly com<g ref="char:cmbAbbrStroke">̄</g>and that the a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oreſaid Cu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>mers doe not deferre im<g ref="char:cmbAbbrStroke">̄</g>ediately upon demand to giue the Teſchere or certificate,</p>
+            </div>
+            <div n="61" type="article">
+               <head>LXI</head>
+               <p>And the cuſtome being once paid of any ſort of merchandize not ſold in that Port, vvhich is to bee tranſported to an other Scale, entire credit ſhall bee giuen to the Teſchere &amp; a ſecond cuſtome ſhall not bee ſo much as farther pretended</p>
+            </div>
+            <div n="62" type="article">
+               <head>LXII</head>
+               <p>In Aleppo, Cairo, &amp; other parts of the Imperiall Dominions, the English merchants, &amp; their ſeruants may freely, &amp; frankly trade, &amp; for all their goods, &amp; merchandize pay only three per cento according to the former cuſtome, &amp; the Imperiall Capi<g ref="char:EOLhyphen"/>tulations, vvhether the goods bee brought by ſea, or by land. And though the Cuſtomers, &amp; Farmers upon the arriuall o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the goods at the Scale to giue moleſtation, &amp; trouble <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> English
+<pb n="20" facs="tcp:95442:14"/> Nation, pretend: that the goods of the grovvth, &amp; manufacture of E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>land ought only to pay three per cent, but goods brought from Ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ice, &amp; other places are obliged to pay more, &amp; vvith this colour &amp; pretence occaſion ſuites, &amp; troubles to the English vvherefore in this point let the Imperiall Capitulations bee obſerued as in former times, &amp; Our officers ought in no vviſe to permit the contrary hereunto.</p>
+            </div>
+            <div n="63" type="article">
+               <head>LXIII</head>
+               <p>An Englishman becoming indebted, or hauing made himſelf pledge for an other, vvho is either failed, or runne avvay; the debt ought to bee demanded of the debtour; And if the Creditor haue no Hoge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that ſuch an o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e according to the lavv hath made himſelf pledge, &amp; ſecuritie; the debt ſhall not bee demanded of the other; vvhich Article is allready declared in the capitulations.</p>
+            </div>
+            <div n="64" type="article">
+               <head>LXIIII</head>
+               <p>VVhereas ſome times an Englishman liuing in a country to free himſelf from a debt dravves a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill of Exchange upon an other Englishman vvho hath no ef<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ects of his in his handes, &amp; the perſon to vvhom the mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y is paya<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le being a man of povver, &amp; authori<g ref="char:EOLhyphen"/>tie, brings <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill, &amp; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ntrary to the lavv, &amp; the Capitulations d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ands, &amp; forces payment of the bill, in vv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich caſe the mer<g ref="char:EOLhyphen"/>chant accepting the bill, ſhall bee obliged to ſatisfy it, but not accepting of it, hee ſhall bee lyable to no farther trouble.</p>
+            </div>
+            <div n="65" type="article">
+               <head>LXV</head>
+               <p>And the Interpreters of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adour of England being free by the Articles, declared in the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apitulations of all Angaria, or taxes; by uertue alſo of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is preſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t article, vvhen any of the ſaid In<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eters die, their goods, or eſtate ſhall not bee ſubiect to the Caſſam, but ſhall bee deuided amongst the creditours, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eires.</p>
+            </div>
+            <div n="66" type="article">
+               <head>LXVI</head>
+               <p>And the King of England being a true friend to this Our happy Port To his Em<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur vvho re<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> here ten Ser<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nts of vvhat nation ſoeuer ſhall bee allovved f ee from Harach or taxes, or moleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation of any man.</p>
+            </div>
+            <div n="67" type="article">
+               <head>LXVII</head>
+               <p>An Englishman tur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing Mahometan, &amp; hauing good<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or eſtate in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to his English <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rincipalls, t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe goods or eſtate ſ<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee deliuered into the hands of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>baſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dour, or Conſul tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they may conuey, &amp; make them good to the true ovvners.</p>
+               <p>Let all the forementioned Articles bee punctually obſerued: And th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaid <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>aſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adour deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe additions ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould bee i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſerted in the I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peria<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Capit<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, his re<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> vvas gracio<g ref="char:EOLhyphen"/>uſly receiued; &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Imperiall Capi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tions vvhic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vvere for<g ref="char:EOLhyphen"/>merly giuen are renevved, &amp; conioyned vvith theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſent.
+<pb n="21" facs="tcp:95442:14"/> And according to Our Imperiall Signature let this Imperiall Capi<g ref="char:EOLhyphen"/>tul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion bee againe granted. And VVEE COMMAND, that vvhi<g ref="char:EOLhyphen"/>les: this preſent King of England CHARLES the Second, vvhoſe end terminate in bliſſe, &amp; happineſſe; doth in the ſame manner, as in the times of my deceaſed progenitors conſerue the like friendly &amp; faithfull correſpondence: I doe Accept, &amp; PROMISE to obſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccording to my promiſe, &amp; oath, I Svveare, &amp; Promiſe by that One God, Creatour of Heauen, &amp; Earth &amp; of all the Creatures, that contrary to theſe preſent Capitulations, no breach, nor uiolence ſhall bee offered either by mee, or mine but ſhall bee obſerued by all.</p>
+            </div>
+            <closer>
+               <dateline>In the Imperiall City of ADRIANOPLE VVritten
+<date>at the end of the Moone of Zemaſiel Vlla in the yeare 1072. VVhich is in the month of Ianuary 1661.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
